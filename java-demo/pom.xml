@@ -11,6 +11,7 @@
     <modules>
         <module>hello-world</module>
         <module>jk-java-bootcamp</module>
+        <module>exe-jar</module>
     </modules>
 
     <properties>
